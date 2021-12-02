@@ -1,4 +1,4 @@
-﻿//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 -> Chave do GitHub
+﻿//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 -> Chave do GitHub
 
 using Microsoft.AspNetCore;
 using Microsoft.AspNetCore.Hosting;
