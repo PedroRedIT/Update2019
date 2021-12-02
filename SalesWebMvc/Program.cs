@@ -1,4 +1,6 @@
-﻿using Microsoft.AspNetCore;
+﻿//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 -> Chave do GitHub
+
+using Microsoft.AspNetCore;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
